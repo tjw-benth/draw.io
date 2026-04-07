@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="eME7f4y-J4lHlROmuSHF">
+    <mxGraphModel dx="1286" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8TJsHdgxupgve95ktDlY-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
+          <mxGeometry height="360" width="640" x="70" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8TJsHdgxupgve95ktDlY-2" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
+          <mxGeometry height="120" width="620" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8TJsHdgxupgve95ktDlY-3" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
+          <mxGeometry height="120" width="620" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8TJsHdgxupgve95ktDlY-4" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
+          <mxGeometry height="120" width="620" x="20" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
