@@ -5,16 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8TJsHdgxupgve95ktDlY-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
-          <mxGeometry height="360" width="640" x="70" y="110" as="geometry" />
+          <mxGeometry height="750" width="640" x="70" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="8TJsHdgxupgve95ktDlY-2" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
+        <mxCell id="8TJsHdgxupgve95ktDlY-2" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Foundational theory" vertex="1">
           <mxGeometry height="120" width="620" x="20" as="geometry" />
         </mxCell>
-        <mxCell id="8TJsHdgxupgve95ktDlY-3" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
-          <mxGeometry height="120" width="620" x="20" y="120" as="geometry" />
+        <mxCell id="8TJsHdgxupgve95ktDlY-3" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=10;horizontal=0;html=1;" value="Development and elaboration" vertex="1">
+          <mxGeometry height="190" width="620" x="20" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="8TJsHdgxupgve95ktDlY-4" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="120" width="620" x="20" y="240" as="geometry" />
+        <mxCell id="8TJsHdgxupgve95ktDlY-4" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Convergence and limitations&amp;nbsp;" vertex="1">
+          <mxGeometry height="220" width="620" x="20" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eQbJxCKJGuLxRp7oh1Nr-3" parent="8TJsHdgxupgve95ktDlY-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="&lt;p&gt;Analytical response and application&lt;/p&gt;" vertex="1">
+          <mxGeometry height="220" width="620" x="20" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
